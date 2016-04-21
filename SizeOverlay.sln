@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MousePositionOverlay", "MousePositionOverlay\MousePositionOverlay.csproj", "{C9F2105B-A61B-4960-A375-F4B7A5C89963}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SizeOverlay", "SizeOverlay\SizeOverlay.csproj", "{C9F2105B-A61B-4960-A375-F4B7A5C89963}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
